@@ -1,4 +1,4 @@
-Demonstrating a potential issue in axios-mock-adapter
+Trouble using axios-mock-adapter: This is probably my fault, but how?
 
 I'm not having any trouble mocking ANY request, so technically I *could*
 use a catch-all and do dispatch from there, but I shouldn't *have* to. :)
